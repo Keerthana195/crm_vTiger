@@ -23,11 +23,7 @@
     <version>5.4.1</version>
     <scope>compile</scope>
 </dependency>
-  	<dependency>
-  		<groupId>Qspiders</groupId>
-  		<artifactId>com.ecommerce.Flipcart</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   	<!-- Source: https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
